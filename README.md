@@ -29,3 +29,41 @@
     <h1 align="center">Tap on above Image</h1>
   </a>
 </p>
+
+
+ 
+- Install [External Plugins](https://github.com/SamPandey001/Ruman-Plugins)
+## Deployment Methods
+---
+1. ***Get [SESSION-ID](https://rumanub-b34f1c3c60d3.herokuapp.com/id) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Ruman-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
+
+
+***Free Mongodb URI,LOL***
+```
+mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
+```
+3.  ***Click [FORK](https://github.com/SamPandey001/Ruman-MD/fork)***
+## Heroku Deployment Method
+4.  ***Deploy on [Heroku](https://rumanub-b34f1c3c60d3.herokuapp.com//heroku)***
+## Koyeb Deployment Method
+5. ***[Deploy on Koyeb](https://rumanub-b34f1c3c60d3.herokuapp.com/koyeb) and get API KEY from [here.](https://app.koyeb.com/settings/api)*** .
+
+6. ***Also Deploy on [Replit]( https://repl.it/github/SamPandey001/Ruman-Md)***
+7. 
+If ***RUN*** Doesn't work, paste these commands in repl shell
+
+```
+yarn
+npm i pm2 -g && pm2 start lib/client.js
+```
+Copy the JSON down and paste in repl then fill the vars
+
+```
+{
+  "SESSION_ID": "ID-Here",
+  "OWNER_NUMBER": "92xxxxxxxxxx",
+  "OWNER_NAME": "EREN JEAGER",
+  "OPENAI_API_KEY": "null",
+  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
+  "PACK_INFO": "Sam;Pandey",
