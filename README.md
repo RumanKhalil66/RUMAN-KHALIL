@@ -29,8 +29,6 @@
     <h1 align="center">Tap on above Image</h1>
   </a>
 </p>
-
-
  
 - Install [External Plugins](https://github.com/SamPandey001/Ruman-Plugins)
 ## Deployment Methods
