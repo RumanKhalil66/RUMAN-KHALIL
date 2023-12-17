@@ -1,22 +1,21 @@
-# RUMAN-KHALIL
  <p align="center">  
   <a href="https://ruman-md userbot.onrender.com/">
    <img alt="ruman docs" height="300" src="https://rumanuserbot.onrender.com/main.jpg">
     <h1 align="center">RUMAN MD Whatsapp bot</h1>
       </a>
-</p
+</p>
 <p align="center">
   <a aria-label="Join our chats" href="https://www.youtube.com/@YourPenPal" target="_blank">
+   
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
- 
   <a aria-label="Ruman MD is free to use" href="https://github.com/SamPandey001/Ruman-Md/blob/main/LICENCE" target="_blank">
+   
+   <a aria-label="Secktor is free to use" href="https://github.com/Ruman-MD/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
 </p>
- 
----
-
+ ---
 <p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
 
   <p align="center"> Introducing Ruman,Ruman is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
@@ -30,7 +29,7 @@
   </a>
 </p>
  
-- Install [External Plugins](https://github.com/SamPandey001/Ruman-Plugins)
+- Install [External Plugins](https://github.com/Ruman-MD)/Ruman-Plugins)
 ## Deployment Methods
 ---
 1. ***Get [SESSION-ID](https://rumanub-b34f1c3c60d3.herokuapp.com/id) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
@@ -41,7 +40,7 @@
 ```
 mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
 ```
-3.  ***Click [FORK](https://github.com/SamPandey001/Ruman-MD/fork)***
+3.  ***Click [FORK]( https://github.com/Ruman-MD/Ruman-MD/fork)***
 ## Heroku Deployment Method
 4.  ***Deploy on [Heroku](https://rumanub-b34f1c3c60d3.herokuapp.com//heroku)***
 ## Koyeb Deployment Method
