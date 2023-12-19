@@ -1,17 +1,17 @@
-CYBER-X WHATSAPP BOT
+Ruman-MD WHATSAPP BOT
 
 <p align = center>   <img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" alt="GIF" width="600" height="300"/> </p>
 
-<p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="Ruman-Khalil WHATSAPP BOT" src="https://img.shields.io/badge/Ruman-Khalil WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 
 ## Authors
 
-- [@DARKALPHAXTEAM](https://www.github.com/darkalphaxteam)
+- [@Ruman-Khalil](https:/www/github.com/Ruman-MD)
 
 ## Support Group
 
-- [Join (Only Access for Bots) ](https://chat.whatsapp.com/IZhmddusPM41KkDXZkeRio)
+- [Join (Only Access for Bots) ](https://chat.whatsapp.com/BAkIFqFa3MtIIFrG6yeGo2)
 
 ## Own
 
@@ -22,9 +22,9 @@ CYBER-X WHATSAPP BOT
 
 ## Heroku Deployment
 
-1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
+1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/Ruman-MD.html)
 
-2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
+2. Fork the Repo - [Click here](https://github.com/Ruman-MD/Ruman-Md-WHATSAPP-BOT/fork)
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
 
@@ -47,12 +47,12 @@ CYBER-X WHATSAPP BOT
 
 ## Support
 
-For support, email darkalphaxteamofficial@gmail.com or After deploying the bot you can join the CYBER-X support group by using the `.joinsup` command…
+For support, email khali738466@gmail.com or After deploying the bot you can join the Ruman-Md support group by using the `.joinsup` command…
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at darkalphaxteamofficial@gmail.com
+If you have any feedback, please reach out to us at khali738466@gmail.com
 
 
 ## Environment Variables
@@ -68,7 +68,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Script 
 
-If you need this non Obb Script or Make you own script with me ( Money propose Only ) - [DARK_ALPHA](https://wa.me/711421243)
+If you need this non Obb Script or Make you own script with me ( Money propose Only ) - [Ruman-Md](https://wa.me/qr/2KGRWDHZERWOE1)
 
 
 
@@ -77,16 +77,16 @@ If you need this non Obb Script or Make you own script with me ( Money propose O
 
 **Attention:** You dont have permission to edit this script
 
-**Special Thanks:** Vihanga YT, Nima , Sanuwa , Black Amda and Ravindu Manoj 
+**Special Thanks:** Mahar Zabuir, Ansar King , Ruman-Khalil ,King-Ruman
 
 ## Copyrights
 
 This is the result of our team's hard work and our team owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances.
 
 
-## ⚖️  *CYBER - X DEVELOPER TEAM* *2K23*  ⚖️
+## ⚖️  *Ruman-MD DEVELOPER TEAM* *2K23*  ⚖️
 
-| <a href="https://github.com/darkalphaxteam"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/chamiofficial"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/DarkMakerofc"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/Niranjana45"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/Tharushaa2004"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> |
+| <a href="https://github.com/ruman-md"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/ruman-md"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/ruman-md"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/ruman-md"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/ruman-md"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> | <a href="https://github.com/ruman-md"><img src="https://telegra.ph/file/83f07f94b470969a55013.jpg" width=90 height=90></a> |
 |---|---|---|---|---|---|
-| **[DARK ALPHA](https://github.com/darkalphaxteam/)**</br>Founder & Developer</br> | **[ROSHAN CHAMIKA](https://github.com/chamiofficial)**</br>CO- Owner & CO-Coder</br> | **[MR.NIMA](https://github.com/DarkMakerofc)**</br> CO-Owner & CO-Coder</br> | **[Akash Niranjana](https://github.com/Niranjana45)**</br> Beta Tester | **[Nadun Dilhara](https://github.com/nandundilhara)**</br> Bug Tester | **[Tharusha Suwahas](https://github.com/Tharushaa2004)**</br> Bug Tester |
+| **[Ruman-MD](https://github.com/ruman-md/)**</br>Founder & Developer</br> | **[Ruman-MD](https://github.com/ruman-md)**</bring>CO- Owner & CO-Coder</br> | **[MR.Ruman](https://github.com/ruman-md)**</br> CO-Owner & CO-Coder</br> | **[Ruman Khalil](https://github.com/ruman-md)**</br> Beta Tester | **[RumanKhalil](https://github.com/ruman-md)**</br> Bug Tester | **[Ruman-Khalil](https://github.com/ruman-md)**</br> Bug Tester |
 
