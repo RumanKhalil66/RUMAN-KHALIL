@@ -8,6 +8,7 @@ Ruman-MD WHATSAPP BOT
 ## Authors
  
 - [@Ruman-Khalil](https:/www/github.com/Ruman-MD)
+- [@Maher Zubair](https:/www/github.com/Maher-Zubair)
 
 ## Support Group
 
@@ -81,7 +82,7 @@ If you need this non Obb Script or Make you own script with me ( Money propose O
 
 **Attention:** You dont have permission to edit this script
 
-**Special Thanks:** Mahar Zabuir, Ansar King , Ruman-Khalil ,King-Ruman
+**Special Thanks:** Maher Zubair, Ansar King , Ruman-Khalil ,King-Ruman
 
 ## Copyrights
 
