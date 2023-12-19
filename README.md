@@ -26,11 +26,15 @@ Ruman-MD WHATSAPP BOT
 
 2. Fork the Repo - [Click here](https://github.com/Ruman-MD/Ruman-Md-WHATSAPP-BOT/fork)
 
-3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
 
-4. Create your own Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
+<p align="center" >
+    <a href="https://heroku.com/deploy?template=https://github.com/Ruman-MD/RUMAN-KHALIL">
+    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
+    </a>
 
-5. Deploy now without Heroku Suspend
+</p>
+
+<p align="center" >
 
 
 ## Features
