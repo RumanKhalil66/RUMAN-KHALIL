@@ -1,15 +1,15 @@
 {
                "name": "ruman-md",
                "version": "0.0.7",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "description": "Multi device whatsapp bot by Ruman Khalil",
                "main": "lib/client.js",
                "type": "commonjs",
-               "license": "GPL-3.0",
+               "license": "GPL-3.0", 
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name ruman",
-                "stop": "pm2 stop ruman"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name ruman-md",
+                "stop": "pm2 stop ruman-md"
                 },
-               "author": "SamPandey001",
+               "author": "Ruman Khalil",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",

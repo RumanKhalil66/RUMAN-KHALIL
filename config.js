@@ -3,7 +3,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER.split(",")
+global.owner = process.env.OWNER_NUMBER.split("923400738466")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'sam@secktor.live'
@@ -15,10 +15,10 @@ global.devs = '923400738466';
 global.website = 'https://github.com/Ruman-MD' //wa.me/+923400738466
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/RumanBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'Ruman Khalil' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'SamPandey001' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'Ruman-Md' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? 'Ruman Khalil' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'SamPandey001' : process.env.PACK_INFO.split(";")[0],
+  author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'Ruman khalil' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'Ruman MD' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
@@ -34,18 +34,18 @@ module.exports = {
   antilink:  process.env.ANTILINK_VALUES === undefined ? 'chat.whatsapp.com' : process.env.ANTILINK_VALUES,
   antilinkaction: process.env.ANTILINK_ACTION === undefined ? 'remove' : process.env.ANTILINK_ACTION,
   BRANCH: 'main', 
-  ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? '' : process.env.ALIVE_MESSAGE,
+  ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? 'I AM Roman Md I am Alive' : process.env.ALIVE_MESSAGE,
   autobio:  process.env.AUTO_BIO === undefined ? false : process.env.AUTO_BIO,
   OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? false : process.env.OPENAI_API_KEY,
   heroku:  process.env.heroku === undefined ? false : process.env.heroku,
   HEROKU: {
     HEROKU: process.env.HEROKU ||false,
-    API_KEY: process.env.HEROKU_API_KEY === undefined ? '1abfce1e-1bee-4334-9f6c-f4c1cb1cafab' : process.env.HEROKU_API_KEY,
-    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'zeropgg' : process.env.HEROKU_APP_NAME
+    API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
+    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'Ruman',
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
+  LANG: process.env.THEME|| 'SECKTOR', // Do not chnage it
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
 
