@@ -23,7 +23,8 @@ Ruman-MD WHATSAPP BOT
 
 ## Heroku Deployment
 
-1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/Ruman-MD.html)
+1. Scan QR - <a href='https://replit.com/@naveeddogar/KING-MD-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
 
 2. Fork the Repo - [Click here](https://github.com/Ruman-MD/Ruman-Md-WHATSAPP-BOT/fork)
 
